@@ -8,16 +8,16 @@ Este es el repositorio de todas las aplicaciones web FullStack con MEVN: MongoDB
 
 2. Ingresar a la Aplicación deseada `cd MEVN-boilerplate/**App-Name**`
 
-3. Abrir el cliente
-```
-cd client
-npm run dev
-```
-
-4. Abrir el servidor
+3. Correr el servidor
 ```
 cd server
 npm start
+```
+
+4. Correr el cliente
+```
+cd client
+npm run dev
 ```
 
 5. Abrir `http://localhost:8080` en el navegador
